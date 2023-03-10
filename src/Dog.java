@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Dog {
+public class Dog {
+    int height;
 }

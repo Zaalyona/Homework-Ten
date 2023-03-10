@@ -1,1 +1,7 @@
-<root></root>
+<root>
+    <item name='java.util.AbstractList void subListRangeCheck(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
